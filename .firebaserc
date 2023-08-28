@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "e7-5b360"  
+  },
+  "targets": {
+    "e7-5b360": {
+      "hosting": {
+        "buildersleague": [
+          "buildersleague"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
